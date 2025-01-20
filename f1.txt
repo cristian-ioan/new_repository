@@ -1,0 +1,2 @@
+fisier f1.txt
+
